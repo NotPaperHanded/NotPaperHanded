@@ -5,8 +5,12 @@ Welcome to Proof Of Paper Hands. With our innovative suite of fun products we ar
 
 Useful Links:
  Website: https://proofofpaperhands.net
+
  Twitter: https://twitter.com/ProofOfPaper
+
  Instagram: https://www.instagram.com/proofofpaperhands/
+
  Telegram: https://t.me/ProofOfPaper_PoPH
+
  Gitbook: https://proofofpaperhandss-organization.gitbook.io/proof-of-paper-hands/
  
